@@ -25,11 +25,11 @@
 <a href="#">XXX</a>📧</em>
 </h4>
 
-<h5 align="center">
-<br>* indicates equal contribution, and 📧 indicates corresponding authors.<br>
+<!-- <h5 align="center">
+<br>* indicates equal contribution, and 📧 indicates corresponding authors.<br> -->
 <!-- <b > AIR, Tsinghua University &nbsp; | &nbsp; Lenovo Research  &nbsp; | &nbsp; HIT &nbsp; | &nbsp; CASIA | &nbsp; Fudan University </b> -->
 <!-- <a><img align="center" src="assets/logo.png" width="100%"/></a> -->
-</h5>
+<!-- </h5> -->
 
 ## Abstract
 <!-- <a align="docs/images/pipeline.png"><img src="assets/pipeline.png"></a> -->
@@ -42,7 +42,7 @@ ______
 ---
 
 ## Notes
-2025-2-28: **Initialization**.  We will release full code after papaer acceptance! 
+2025-2-28: **Initialization**.  We will release full code after paper acceptance! 
 <!-- Stay tuned for updates on this <a href='#'>page</a> -->
 <!-- ><strong>[Coming Soon]</strong>: We will release full code after papaer acceptance! Stay tuned for updates on this <a href='#'>page</a> -->
 
