@@ -41,8 +41,8 @@ ______
 ---
 
 ## Notes
-2025-2-28: **Initialization**.  
-><strong>[Coming Soon]</strong>: We will release full code after papaer acceptance! Stay tuned for updates on this <a href='#'>page</a>
+2025-2-28: **Initialization**.  We will release full code after papaer acceptance! Stay tuned for updates on this <a href='#'>page</a>
+<!-- ><strong>[Coming Soon]</strong>: We will release full code after papaer acceptance! Stay tuned for updates on this <a href='#'>page</a> -->
 
 ## Citation
 If you find this work useful in your research, please consider cite: 
