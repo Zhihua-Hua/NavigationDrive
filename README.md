@@ -26,7 +26,7 @@
 
 <h5 align="center">
 <br>* indicates equal contribution, and 📧 indicates corresponding authors.<br>
-<b > AIR, Tsinghua University &nbsp; | &nbsp; Lenovo Research  &nbsp; | &nbsp; HIT &nbsp; | &nbsp; CASIA | &nbsp; Fudan University </b>
+<!-- <b > AIR, Tsinghua University &nbsp; | &nbsp; Lenovo Research  &nbsp; | &nbsp; HIT &nbsp; | &nbsp; CASIA | &nbsp; Fudan University </b> -->
 <!-- <a><img align="center" src="assets/logo.png" width="100%"/></a> -->
 </h5>
 
@@ -41,7 +41,8 @@ ______
 ---
 
 ## Notes
-2025-2-28: **Initialization**.  We will release full code after papaer acceptance! Stay tuned for updates on this <a href='#'>page</a>
+2025-2-28: **Initialization**.  We will release full code after papaer acceptance! 
+<!-- Stay tuned for updates on this <a href='#'>page</a> -->
 <!-- ><strong>[Coming Soon]</strong>: We will release full code after papaer acceptance! Stay tuned for updates on this <a href='#'>page</a> -->
 
 ## Citation
