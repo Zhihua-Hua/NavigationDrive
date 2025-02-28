@@ -6,22 +6,23 @@
 <a href="https://github.com/ChipsICU/Dual-AEB/blob/main/LICENSE"><img  src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 </p>
 
-<!-- <h4 align="center"><em><a href="https://github.com/ChipsICU">Wei Zhang</a>*, 
+<!-- <h4 align="center"><em> -->
+<!-- <a href="https://github.com/ChipsICU">Wei Zhang</a>*, 
 <a href="https://github.com/Philipflyg">Pengfei Li</a>*,
 <a href="https://github.com/wjl2244">Junli Wang</a>, 
 <a href="#">Bingchuan Sun</a>, 
 <a href="#">Qihao Jin</a>, 
 <a href="#">Guangjun Bao</a>, 
 <a href="#">Shibo Rui</a>, 
-<a href="#">Yang Yu</a>, 
-<a href="#">Wenchao Ding</a>, 
+<a href="#">Yang Yu</a>,  -->
+<!-- <a href="#">Wenchao Ding</a>, 
 <a href="#">Peng Li</a>📧, 
 <a href="#">Yilun Chen</a>📧</em>
 </h4> -->
 
 <h4 align="center"><em>
 <a href="#">XXX</a>, 
-<a href="#">XXX</a>, 
+<a href="#">XXX</a>📧</em>
 </h4>
 
 <h5 align="center">
