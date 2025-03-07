@@ -1,35 +1,28 @@
-<h1 align="center">Title</h1>
+<h1 align="center">Unveiling the Surprising Efficacy of Navigation Understanding in
+End-to-End Autonomous Driving</h1>
 
 <p align="center">
 <!-- <a href="https://arxiv.org/pdf/2410.08616"><img src="https://img.shields.io/badge/arXiv-Dual_AEB-green"></a> -->
 <!-- <a href="https://www.youtube.com/watch?v=KbN-mJnXu08"><img src="https://img.shields.io/badge/YouTube-Video-red?logo=video"></a> -->
-<a href="https://github.com/ChipsICU/Dual-AEB/blob/main/LICENSE"><img  src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
+<a href="https://github.com/Zhihua-Hua/NavigationDrive/blob/main/LICENSE"><img  src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 </p>
 
-<!-- <h4 align="center"><em> -->
-<!-- <a href="https://github.com/ChipsICU">Wei Zhang</a>*, 
-<a href="https://github.com/Philipflyg">Pengfei Li</a>*,
-<a href="https://github.com/wjl2244">Junli Wang</a>, 
-<a href="#">Bingchuan Sun</a>, 
-<a href="#">Qihao Jin</a>, 
-<a href="#">Guangjun Bao</a>, 
-<a href="#">Shibo Rui</a>, 
-<a href="#">Yang Yu</a>,  -->
-<!-- <a href="#">Wenchao Ding</a>, 
-<a href="#">Peng Li</a>📧, 
-<a href="#">Yilun Chen</a>📧</em>
-</h4> -->
-
 <h4 align="center"><em>
-<a href="#">XXX</a>, 
-<a href="#">XXX</a>📧</em>
+<a href="https://github.com/Zhihua-Hua">Zhihua Hua</a>, 
+<a href="https://github.com/wjl2244">Junli Wang</a>, 
+<a href="https://github.com/Philipflyg">Pengfei Li</a>,
+<a href="#">Qihao Jin</a>, 
+<a href="#">Bo Zhang</a>, 
+<a href="#">Kehua Sheng</a>, 
+<a href="#"> Yilun Chen</a>, 
+<a href="#">Zhongxue Gan</a>, 
+<a href="#">Wenchao Ding</a>📧</em>
 </h4>
 
-<!-- <h5 align="center">
-<br>* indicates equal contribution, and 📧 indicates corresponding authors.<br> -->
-<!-- <b > AIR, Tsinghua University &nbsp; | &nbsp; Lenovo Research  &nbsp; | &nbsp; HIT &nbsp; | &nbsp; CASIA | &nbsp; Fudan University </b> -->
+<h5 align="center">
+<b > Fudan University &nbsp; | &nbsp; Didi Chuxing &nbsp; | &nbsp; AIR, Tsinghua University &nbsp; | &nbsp; CASIA </b>
 <!-- <a><img align="center" src="assets/logo.png" width="100%"/></a> -->
-<!-- </h5> -->
+</h5>
 
 ## Abstract
 <!-- <a align="docs/images/pipeline.png"><img src="assets/pipeline.png"></a> -->
