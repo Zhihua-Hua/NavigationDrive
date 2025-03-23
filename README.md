@@ -25,9 +25,9 @@ End-to-End Autonomous Driving</h1>
 </h5>
 
 ## Abstract
-<!-- <a align="docs/images/pipeline.png"><img src="assets/pipeline.png"></a> -->
-______
-
+<a align="docs/images/pipeline.png"><img src="assets/pipeline.png"></a>
+---
+Navigation information serves as a critical component in end-to-end autonomous driving systems, providing essential decision-making references for planner. However, our experimental results reveal that many existing end-to-end autonomous driving systems may not adequately comprehend navigation information, consequently failing to execute appropriate planning based on navigation information. To overcome this limitation, we propose a Sequential Navigation Guidance (SNG) framework, which is designed based on real-world navigation patterns. The SNG incorporates both a navigation path to constrain long-term trajectories and Turn-by-Turn (TBT) information for real-time decision logic. We also introduce an efficient and streamlined model that achieves state-of-the-art (SOTA) performance solely through the accurate modeling of navigation information, without requiring auxiliary loss functions from perception tasks. 
 <!-- Automatic Emergency Braking (AEB) systems are a crucial component in ensuring the safety of passengers in autonomous vehicles. Conventional AEB systems primarily rely on closed-set perception modules to recognize traffic conditions and assess collision risks. To enhance the adaptability of AEB systems in open scenarios, we propose Dual-AEB, a system combines an advanced multimodal large language model (MLLM) for comprehensive scene understanding and a conventional rule-based rapid AEB to ensure quick response times. To the best of our knowledge, Dual-AEB is the first method to incorporate MLLMs within AEB systems. Through extensive experimentation, we have validated the effectiveness of our method. -->
 
 <!-- ><strong>[Coming Soon]</strong>: We will release full code after papaer acceptance! Stay tuned for updates on this <a href='#'>page</a> -->
@@ -39,11 +39,11 @@ ______
 <!-- Stay tuned for updates on this <a href='#'>page</a> -->
 <!-- ><strong>[Coming Soon]</strong>: We will release full code after papaer acceptance! Stay tuned for updates on this <a href='#'>page</a> -->
 
-## Citation
+<!-- ## Citation
 If you find this work useful in your research, please consider cite: 
 
 ```
-```
+``` -->
 
 ## Acknowledgments
 
